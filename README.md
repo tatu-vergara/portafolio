@@ -7,14 +7,14 @@ Combino mi experiencia en **producción musical**, **audio digital** y **desarro
 
 ## Tecnologías que utilizo 🎧
 
-**Desarrollo**  
+###Desarrollo
 - Python · Django  
 - HTML · CSS · JavaScript  
 - MySQL  
 - Git · GitHub  
 - Render · GitHub Pages  
 
-**Audio / Música**  
+###Audio / Música  
 - Ableton Live  
 - Producción musical, mezcla y diseño sonoro  
 - Uso y creación de plug-ins VST  
@@ -24,33 +24,33 @@ Combino mi experiencia en **producción musical**, **audio digital** y **desarro
 
 ##  Proyectos Destacados 💫
 
-### ** Tienda de Plug-ins de Audio Digital (Django + MySQL)**
+###  Tienda de Plug-ins de Audio Digital (Django + MySQL)
 Aplicación fullstack que simula una tienda de plug-ins: catálogo, CRUD completo, filtros y autenticación.
 - Repo: https://github.com/tatu-vergara/tienda_plugins_django
 
 ---
 
-### ** CyberGumshoe — Web interactiva con estética retro + ciberseguridad**
+###  CyberGumshoe — Web interactiva con estética retro + ciberseguridad
 Sitio educativo gamificado con estética visual simple, implementando HTML, CSS y JS.
 - Repo: https://github.com/tatu-vergara/CyberGumshoe  
 - Demo: https://tatu-vergara.github.io/CyberGumshoe/
 
 ---
 
-### ** EulerPi — Juego de memoria numérica**
+###  EulerPi — Juego de memoria numérica
 Aplicación interactiva que entrena memoria a través de secuencias numéricas (Pi, Euler).
 - Repo: https://github.com/tatu-vergara/eulerpi  
 - Demo: https://eulerpi.onrender.com/
 
 ---
 
-### ** Gestor de Tareas (Django)**
+###  Gestor de Tareas (Django)
 Aplicación CRUD para administración de tareas con categorías y estados.
 - Repo: https://github.com/tatu-vergara/gestor_de_tareas
 
 ---
 
-### **💻 Portafolio Web (GitHub Pages)**
+### 💻 Portafolio Web (GitHub Pages)
 Mi portafolio visual principal, con enlaces, proyectos y demos.
 - https://tatu-vergara.github.io/
 
