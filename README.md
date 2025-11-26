@@ -7,14 +7,14 @@ Combino mi experiencia en **producción musical**, **audio digital** y **desarro
 
 ## Tecnologías que utilizo 🎧
 
-###Desarrollo
+### Desarrollo
 - Python · Django  
 - HTML · CSS · JavaScript  
 - MySQL  
 - Git · GitHub  
 - Render · GitHub Pages  
 
-###Audio / Música  
+### Audio / Música  
 - Ableton Live  
 - Producción musical, mezcla y diseño sonoro  
 - Uso y creación de plug-ins VST  
