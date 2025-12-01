@@ -49,6 +49,11 @@ Aplicación CRUD para administración de tareas con categorías y estados.
 - Repo: https://github.com/tatu-vergara/gestor_de_tareas
 
 ---
+### Inventario y Transacciones SQL
+
+Proyecto diseñado para practicar y demostrar dominio de modelado relacional, creación de bases de datos, manejo de transacciones y consultas SQL de mediana complejidad.
+- Repos: https://github.com/tatu-vergara/inventario_transacciones_sql
+---
 
 ### 💻 Portafolio Web (GitHub Pages)
 Mi portafolio visual principal, con enlaces, proyectos y demos.
