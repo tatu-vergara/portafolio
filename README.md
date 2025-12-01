@@ -64,6 +64,7 @@ Mi portafolio visual principal, con enlaces, proyectos y demos.
 ## 📫 Contacto
 - GitHub: https://github.com/tatu-vergara  
 - Portafolio Web: https://tatu-vergara.github.io/
+- Mail: tatu.vergarav@gmail.com
 
 ---
 
