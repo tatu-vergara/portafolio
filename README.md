@@ -1,5 +1,5 @@
 # Hola, soy Tatu Vergara 🦜
-Productorx musical y desarrolladorx web junior enfocado en crear herramientas digitales, aplicaciones web y soluciones para proyectos musicales, creativos y negocios.
+Desarrolladorx web junior y productore musical enfocado en crear herramientas digitales, aplicaciones web y soluciones para proyectos musicales, creativos y negocios.
 
 Combino mi experiencia en **producción musical**, **audio digital** y **desarrollo full-stack** para construir proyectos que cruzan tecnología, educación y creatividad.
 
