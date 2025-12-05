@@ -30,34 +30,41 @@ Aplicación fullstack que simula una tienda de plug-ins: catálogo, CRUD complet
 
 ---
 
-###  CyberGumshoe — Web interactiva con estética retro + ciberseguridad
-Sitio educativo gamificado con estética visual simple, implementando HTML, CSS y JS.
-- Repo: https://github.com/tatu-vergara/CyberGumshoe  
-- Demo: https://tatu-vergara.github.io/CyberGumshoe/
-
----
-
 ###  EulerPi — Juego de memoria numérica
-Aplicación interactiva que entrena memoria a través de secuencias numéricas (Pi, Euler).
-- Repo: https://github.com/tatu-vergara/eulerpi  
+Aplicación interactiva en Django que genera y evalúa secuencias numéricas (Pi/Euler), con POO, vistas dinámicas y deploy en Render.
+
+- Repo: https://github.com/tatu-vergara/eulerpi
 - Demo: https://eulerpi.onrender.com/
 
 ---
 
 ###  Gestor de Tareas (Django)
-Aplicación CRUD para administración de tareas con categorías y estados.
+Aplicación CRUD con modelos relacionales, autenticación, vistas basadas en clases y arquitectura MVC/MTV.
 - Repo: https://github.com/tatu-vergara/gestor_de_tareas
 
 ---
 ### Inventario y Transacciones SQL
 
-Proyecto diseñado para practicar y demostrar dominio de modelado relacional, creación de bases de datos, manejo de transacciones y consultas SQL de mediana complejidad.
+Proyecto para practicar modelado relacional, creación de bases de datos, transacciones ACID y consultas SQL intermedias.
 - Repos: https://github.com/tatu-vergara/inventario_transacciones_sql
 ---
 
 ### 💻 Portafolio Web (GitHub Pages)
 Mi portafolio visual principal, con enlaces, proyectos y demos.
 - https://tatu-vergara.github.io/
+
+---
+### Tatuara.net — Página de artista (Vercel + Supabase + Hostinger)
+
+Sitio profesional full-custom con diseño propio, HTML, CSS y JS, integrado con Supabase (DB) y desplegado mediante Vercel/Hostinger.
+- Web: https://www.tatuara.net/
+
+---
+
+###  CyberGumshoe — Web interactiva con estética retro + ciberseguridad
+Sitio educativo gamificado en HTML, CSS y JS, aplicando diseño propio y lógica modular.
+- Repo: https://github.com/tatu-vergara/CyberGumshoe  
+- Demo: https://tatu-vergara.github.io/CyberGumshoe/
 
 ---
 
