@@ -10,7 +10,7 @@ Combino mi experiencia en **producción musical**, **audio digital** y **desarro
 ### Desarrollo
 - Python · Django  
 - HTML · CSS · JavaScript  
-- MySQL  
+- MySQL · PostgreSQL 
 - Git · GitHub  
 - Render · GitHub Pages · Vercel 
 
