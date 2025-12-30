@@ -12,7 +12,7 @@ Combino mi experiencia en **producción musical**, **audio digital** y **desarro
 - HTML · CSS · JavaScript  
 - MySQL  
 - Git · GitHub  
-- Render · GitHub Pages  
+- Render · GitHub Pages · Vercel 
 
 ### Audio / Música  
 - Ableton Live  
