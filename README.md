@@ -9,7 +9,7 @@ Combino mi experiencia en **producción musical**, **audio digital** y **desarro
 
 ### Desarrollo
 - Python · Django  
-- HTML · CSS · JavaScript  
+- HTML · CSS · JavaScript · React (Hooks, State Management)
 - MySQL · PostgreSQL 
 - Git · GitHub  
 - Render · GitHub Pages · Vercel 
@@ -29,6 +29,10 @@ Aplicación fullstack que simula una tienda de plug-ins: catálogo, CRUD complet
 - Repo: https://github.com/tatu-vergara/tienda_plugins_django
 
 ---
+### Euler Trainer (React App)
+Aplicación interactiva para entrenar la memoria de dígitos de constantes matemáticas (e), con feedback visual en tiempo real y seguimiento de estadísticas
+- repo: https://github.com/tatu-vergara/euler-pwa (privado)
+- App / demo: https://euler-pwa.vercel.app/
 
 ###  EulerPi — Juego de memoria numérica
 Aplicación interactiva en Django que genera y evalúa secuencias numéricas (Pi/Euler), con POO, vistas dinámicas y deploy en Render.
