@@ -8,21 +8,28 @@ Combino mi experiencia en **producción musical**, **audio digital** y **desarro
 ## Tecnologías que utilizo 🎧
 
 ### Desarrollo
-- Python · Django  
-- HTML · CSS · JavaScript · React (Hooks, State Management)
-- MySQL · PostgreSQL 
-- Git · GitHub  
-- Render · GitHub Pages · Vercel 
+- Python · Django
+- HTML · CSS · JavaScript · TypeScript · React (Hooks, State Management) · Next.js
+- MySQL · PostgreSQL
+- Git · GitHub
+- Render · GitHub Pages · Vercel
 
 ### Audio / Música  
-- Ableton Live  
-- Producción musical, mezcla y diseño sonoro  
-- Uso y creación de plug-ins VST  
-- Procesamiento de audio digital
+- C++ · JUCE (desarrollo de plugins VST/AU)
+- Ableton Live
+- Producción musical, mezcla y master
+- Procesamiento de audio digital 
 
 ---
 
 ##  Proyectos Destacados 💫
+
+### LAZO — Apoyo para salud mental (React, Next.js, PWA)  
+  Aplicación de acompañamiento para personas neurodivergentes con agenda de sesiones, recordatorios, mensajes de apoyo y seguimiento de progreso. Desplegada en Vercel.  
+  *Repo: privado · Demo: [lazo-app-taupe.vercel.app](https://lazo-app-taupe.vercel.app/main/inicio)*[reference:1]
+
+### Entrenador Rítmico — Flashcards musicales (React)  
+  Aplicación interactiva para aprender conceptos elementales de música (figuras rítmicas, compases, acentos) mediante tarjetas de memoria con feedback visual y auditivo.
 
 ###  Tienda de Plug-ins de Audio Digital (Django + MySQL)
 Aplicación fullstack que simula una tienda de plug-ins: catálogo, CRUD completo, filtros y autenticación.
@@ -62,13 +69,6 @@ Mi portafolio visual principal, con enlaces, proyectos y demos.
 
 Sitio profesional full-custom con diseño propio, HTML, CSS y JS, integrado con Supabase (DB) y desplegado mediante Vercel/Hostinger.
 - Web: https://www.tatuara.net/
-
----
-
-###  CyberGumshoe — Web interactiva con estética retro + ciberseguridad
-Sitio educativo gamificado en HTML, CSS y JS, aplicando diseño propio y lógica modular.
-- Repo: https://github.com/tatu-vergara/CyberGumshoe  
-- Demo: https://tatu-vergara.github.io/CyberGumshoe/
 
 ---
 
